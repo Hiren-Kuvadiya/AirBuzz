@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DemoProjects/MyPract/app/src/main/res/layout/activity_main.xml" value="0.2609375" />
+        <entry key="..\:/demo/MyPract/MyPract/app/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/demo/MyPract/MyPract/app/src/main/res/layout/city_row.xml" value="0.23072916666666668" />
+        <entry key="..\:/demo/MyPract/MyPract/app/src/main/res/layout/fragment_city_list.xml" value="0.2" />
+        <entry key="..\:/pract/MyPract/MyPract/MyPract/app/src/main/res/layout/activity_main.xml" value="0.221875" />
+        <entry key="..\:/pract/MyPract/MyPract/MyPract/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/pract/MyPract/MyPract/MyPract/app/src/main/res/layout/fragment_city_list.xml" value="0.32135416666666666" />
+        <entry key="..\:/pract/MyPract/MyPract/MyPract/app/src/main/res/layout/toolbar.xml" value="0.21770833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
